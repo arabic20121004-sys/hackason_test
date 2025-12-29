@@ -6,9 +6,9 @@ greet = print("こんにちは")
 
 #3.nameを引数に摂り「私の名前は{name}です」と出力するprint_name関数を実装
 def print_name(name):
-    print(f"私の名前は{name}です"}
+    print(f"私の名前は{name}です")
 
-print(print_name("太郎")
+print(print_name("太郎"))
 
 #4.「おはようございます」という文字列を戻り値として返すget_greet関数を実行し、戻り値をprint関数で出力
 def get_greet():
