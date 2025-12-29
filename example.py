@@ -8,6 +8,8 @@ greet = print("こんにちは")
 def print_name(name):
     print(f"私の名前は{name}です")
 
+print(print_name("太郎"))
+
 #4.「おはようございます」という文字列を戻り値として返すget_greet関数を実行し、戻り値をprint関数で出力
 def get_greet():
       return f"おはようございます"
